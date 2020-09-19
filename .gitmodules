@@ -1,0 +1,3 @@
+[submodule "app/src/main/cpp/libvarnam"]
+	path = app/src/main/cpp/libvarnam
+	url = https://github.com/subins2000/libvarnam
